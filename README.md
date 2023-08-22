@@ -6,7 +6,6 @@
 - Web Development: I enjoy building modern and responsive websites using HTML, CSS, JavaScript, and frameworks like React.
 - Software Development: I love creating efficient and scalable applications using languages like .NET, Java, and C++.
 - Data Science: Exploring the world of data, I dabble in data analysis, visualization, and machine learning.
-- Open Source: I'm an advocate for open-source contributions and believe in the power of collaboration.
     <h3 align="center">Goals</h3>
 
 - 🎓 Complete my Computer Science degree with excellence.
