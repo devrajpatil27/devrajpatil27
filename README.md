@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Devraj Patil</h1>
 <h3 align="center"> Associate Software Engineer at KPIT</h3>
-
-Passionate about technology, software development, and problem-solving. Welcome to my GitHub profile, where I share my coding journey and projects!
+Working as a Embedded developer, Passionate about technology, software development, and problem-solving. Welcome to my GitHub profile, where I share my coding journey and projects!
   <h3 align="center">Interests</h3>
+- Embedded C: Programming microcontrollers and embedded systems using Embedded C.
 - Web Development: I enjoy building modern and responsive websites using HTML, CSS, JavaScript, and frameworks like React.
 - Software Development: I love creating efficient and scalable applications using languages like .NET, Java, and C++.
 - Data Science: Exploring the world of data, I dabble in data analysis, visualization, and machine learning.
