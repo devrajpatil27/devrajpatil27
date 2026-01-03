@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Devraj Patil</h1>
-<h3 align="center">Software Engineer 24'</h3>
+<h3 align="center"> Associate Software Engineer at KPIT</h3>
 
-- Final year Computer Science Engineering student at **@RIT islampur** passionate about technology, software development, and problem-solving. Welcome to my GitHub profile, where I share my coding journey and projects!
+Passionate about technology, software development, and problem-solving. Welcome to my GitHub profile, where I share my coding journey and projects!
   <h3 align="center">Interests</h3>
 - Web Development: I enjoy building modern and responsive websites using HTML, CSS, JavaScript, and frameworks like React.
 - Software Development: I love creating efficient and scalable applications using languages like .NET, Java, and C++.
